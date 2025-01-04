@@ -2,8 +2,8 @@
 title: Links
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+    description: GitHub is the world's largest software development platform. Here you can find the source code for many of my projects.
+    website: https://github.com/bogdanmitrovic
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
@@ -14,20 +14,4 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Here you can find the links to my profiles on various platforms. Feel free to connect with me on any of them. If you prefer, you can always contact me via email at mbogdan1710@gmail.com.
